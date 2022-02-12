@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NateTheDad
 - 👀 I’m interested in making mods for Minecraft and making cool code for classes!
-- 🌱 I’m currently learning how to make a febric mod for Minecraft!
+- 🌱 I’m currently learning how to make a fabric mod for Minecraft!
 - 📫 How to reach me Instagram or Twitter with the same handle
 
 <!---
